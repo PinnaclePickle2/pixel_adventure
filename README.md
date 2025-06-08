@@ -11,12 +11,17 @@ flutter build
 flutter run -d windows --release
 ```
 
-### Сборка приложения под Android
+### Сборка приложения под Android (универсальный .apk)
 ```bash
-flutter build apk --release
+flutter build apk --target-platform android-arm,android-arm64,android-x64
 ```
 
-### Очистка
+### Сборка приложения под Android (разделить на .apk по архитектурам)
+```bash
+flutter build apk --split-per-abi
+```
+
+### Очистка проекта
 ```bash
 flutter clean
 ```
