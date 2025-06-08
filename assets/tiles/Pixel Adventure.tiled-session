@@ -1,0 +1,158 @@
+{
+    "Map/SizeTest": {
+        "height": 4300,
+        "width": 2
+    },
+    "activeFile": "Level-07.tmx",
+    "expandedProjectPaths": [
+        "."
+    ],
+    "file.lastUsedOpenFilter": "Все файлы (*)",
+    "fileStates": {
+        "C:/Users/Alex/Downloads/flame_simple_platformer-main/flame_simple_platformer-main/assets/tiles/Level2.tmx": {
+            "scale": 1.38640625,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 479.2967429279837,
+                "y": 191.50231037980387
+            }
+        },
+        "C:/Users/Alex/Downloads/flame_simple_platformer-main/flame_simple_platformer-main/assets/tiles/Spritesheet.tsx": {
+            "scaleInDock": 1
+        },
+        "Level-01.tmx": {
+            "expandedObjectLayers": [
+                4,
+                3
+            ],
+            "scale": 2,
+            "selectedLayer": 2,
+            "viewCenter": {
+                "x": 307.75,
+                "y": 173.25
+            }
+        },
+        "Level-02.tmx": {
+            "expandedObjectLayers": [
+                4,
+                3
+            ],
+            "scale": 1.5,
+            "selectedLayer": 2,
+            "viewCenter": {
+                "x": 1238.3333333333333,
+                "y": 378.99999999999994
+            }
+        },
+        "Level-03.tmx": {
+            "expandedObjectLayers": [
+                4,
+                3
+            ],
+            "scale": 2,
+            "selectedLayer": 2,
+            "viewCenter": {
+                "x": 1125.25,
+                "y": 627.75
+            }
+        },
+        "Level-04.tmx": {
+            "expandedObjectLayers": [
+                4,
+                3
+            ],
+            "scale": 1,
+            "selectedLayer": 1,
+            "viewCenter": {
+                "x": 337.5,
+                "y": 1256.5
+            }
+        },
+        "Level-05.tmx": {
+            "expandedObjectLayers": [
+                4,
+                3
+            ],
+            "scale": 2,
+            "selectedLayer": 1,
+            "viewCenter": {
+                "x": 416.75,
+                "y": 168.25
+            }
+        },
+        "Level-06.tmx": {
+            "expandedObjectLayers": [
+                4,
+                3
+            ],
+            "scale": 1.5,
+            "selectedLayer": 2,
+            "viewCenter": {
+                "x": 996.3333333333333,
+                "y": 1033
+            }
+        },
+        "Level-07.tmx": {
+            "expandedObjectLayers": [
+                4,
+                3
+            ],
+            "scale": 1.5,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 822.3333333333333,
+                "y": 215.66666666666663
+            }
+        },
+        "Level-08.tmx": {
+            "expandedObjectLayers": [
+                4,
+                3
+            ],
+            "scale": 1.5,
+            "selectedLayer": 2,
+            "viewCenter": {
+                "x": 1020.9999999999999,
+                "y": 804.3333333333333
+            }
+        },
+        "Pixel Adventure.tsx": {
+            "scaleInDock": 1.5,
+            "scaleInEditor": 1
+        }
+    },
+    "last.imagePath": "D:/flutterprojects/pixel_adventure/assets/images/Terrain",
+    "map.height": 23,
+    "map.lastUsedFormat": "tmx",
+    "map.tileHeight": 16,
+    "map.tileWidth": 16,
+    "map.width": 40,
+    "openFiles": [
+        "Pixel Adventure.tsx",
+        "Level-01.tmx",
+        "Level-02.tmx",
+        "Level-03.tmx",
+        "Level-04.tmx",
+        "Level-05.tmx",
+        "Level-06.tmx",
+        "Level-07.tmx"
+    ],
+    "project": "Pixel Adventure.tiled-project",
+    "property.type": "string",
+    "recentFiles": [
+        "Pixel Adventure.tsx",
+        "Level-01.tmx",
+        "Level-02.tmx",
+        "Level-03.tmx",
+        "Level-04.tmx",
+        "Level-05.tmx",
+        "Level-06.tmx",
+        "Level-07.tmx",
+        "C:/Users/Alex/Downloads/flame_simple_platformer-main/flame_simple_platformer-main/assets/tiles/Level2.tmx"
+    ],
+    "tileset.lastUsedFormat": "tsx",
+    "tileset.tileSize": {
+        "height": 16,
+        "width": 16
+    }
+}

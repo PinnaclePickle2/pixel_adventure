@@ -1,0 +1,58 @@
+# ===========================================
+# Flutter / Dart / Flame
+# ===========================================
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.packages
+.pub-cache/
+.pub/
+build/
+**/doc/api/
+**/ios/Flutter/.last_build_id
+
+# ===========================================
+# IDE / Editor config
+# ===========================================
+.idea/
+*.iml
+*.ipr
+*.iws
+
+# VS Code
+.vscode/
+
+# JetBrains Rider / Android Studio logs
+.gradle/
+*.log
+
+# ===========================================
+# OS-specific garbage
+# ===========================================
+.DS_Store
+Thumbs.db
+*.swp
+*.tmp
+
+# ===========================================
+# Platform build output
+# ===========================================
+# Android
+android/app/debug/
+android/app/profile/
+android/app/release/
+
+# Windows
+windows/runner/Debug/
+windows/runner/Release/
+windows/runner/Profile/
+
+# ===========================================
+# Symbol / Obfuscation files
+# ===========================================
+app.*.symbols
+app.*.map.json
+
+# ===========================================
+# Do not commit this unless publishing a package
+#pubspec.lock  # Uncomment if this is a library, not an app
