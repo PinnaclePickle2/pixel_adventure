@@ -40,17 +40,6 @@ class AudioManager {
   static Future<void> init() async {
     FlameAudio.bgm.initialize();
     await FlameAudio.audioCache.loadAll([
-      'Button_20.wav',
-      'Button_21.wav',
-      'Button_22.wav',
-      'Button_23.wav',
-      'Button_24.wav',
-      'Button_25.wav',
-      'bounce.wav',
-      'collect_fruit.wav',
-      'disappear.wav',
-      'hit.wav',
-      'jump.wav',
       'level.wav',
       'level_2.wav',
       'main_menu.wav',
