@@ -6,9 +6,14 @@ flutter pub get
 flutter build
 ```
 
-### Запуск приложения
+### Запуск приложения под Windows
 ```bash
-flutter run
+flutter run -d windows --release
+```
+
+### Сборка приложения под Android
+```bash
+flutter build apk --release
 ```
 
 ### Очистка
